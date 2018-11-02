@@ -25,23 +25,25 @@ h1 {
 	font-family: 'Oswald', Verdana, Arial, sans-serif;
 	text-align: center;
 }
+h3 {
+	color: black;
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	text-align: left;
+	margin-left: 10px;
+}
 p{
 	font-family: 'Oswald', Verdana, Arial, sans-serif;
 	color: #000000;
 	text-align: left;
 	margin: 10px;
+	padding-right: 100px;
 }
 
 #nav {
 	padding: 5px;
 	margin: 5px;
 }
-ul {
-	list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
+
 li {
 	display: inline;
 	padding: 5px;
@@ -65,3 +67,17 @@ a:active {
 color: red;
 text-decoration: underline;
 }
+
+.color   {
+   background-color: #ccccb3;
+}
+
+.contentContainer    {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 10px 10px 5px #283811;
+}
+
