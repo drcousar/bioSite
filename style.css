@@ -21,13 +21,13 @@ background-color: #FF0000;
 	font-size: 8px;
 }
 h1 {
-	color: aliceblue;
-	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	color: white;
+	font-family: 'Patrick Hand', cursive;
 	text-align: center;
 }
 h3 {
 	color: black;
-	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	font-family: 'Patrick Hand', cursive;
 	text-align: left;
 	margin-left: 10px;
 }
@@ -40,8 +40,10 @@ p{
 }
 
 #nav {
-	padding: 5px;
-	margin: 5px;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 24px;
+	padding: 1px;
+	margin: 1px;
 }
 
 li {
@@ -60,7 +62,6 @@ text-decoration: none;
 }
 a:hover {
 color: white;
-text-decoration: underline;
 background-color: red;
 }
 a:active {
