@@ -11,10 +11,17 @@ html{
   height: 300px;	
 }
 
+img {
+	border: 1px solid #000;
+    border-radius: 4px;
+}
+
 .title { 
 background-color: #FF0000;
 	height: 100px;	
-	padding-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	font-size: 32px;
 }
 .footnote {
 	font-family: 'Oswald', Verdana, Arial, sans-serif;
