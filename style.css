@@ -58,13 +58,13 @@ li {
 	padding: 5px;
 }
 a:link {
-color: red;
+color: #FF5733;
 font-weight: bold;
 font-size: 1em;
 text-decoration: none;
 }
 a:visited {
-color: red;
+color: #FF5733;
 text-decoration: none;
 }
 a:hover {
@@ -72,7 +72,7 @@ color: white;
 background-color: red;
 }
 a:active {
-color: red;
+color: #FF5733;
 text-decoration: underline;
 }
 
